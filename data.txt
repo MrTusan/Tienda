@@ -1,0 +1,149 @@
+EQUIPO1
+Pc Gamer A8 9600 16gb Ssd 240gb Monitor 24 Fhd Completa
+
+Marca	Asus
+Modelo	A320M
+Procesador	AMD A8
+Disco duro	1 TB
+Otras características
+RAM: 16 GB
+Sistema operativo: Windows 10
+Con monitor: Sí
+Tamaño de la pantalla: 24 "
+Es gamer: Sí
+
+EQUIPO2
+Computadora de escritorio Dell Optiplex 9020
+
+SFF PC de escritorio, 
+procesador Intel Core i5,
+ 4 GB de RAM,
+ disco duro de 500 GB,
+ WiFi, 
+Bluetooth 4.0,
+ DVD-RW, 
+monitores LCD duales de 19 pulgadas
+ Windows 10 Pro (renovado)
+
+Marca Dell
+Series Optiplex 9020
+Sistema operativo Windows 10 Pro
+Modelo de CPU Core i5
+Velocidad del procesador 3.2 GHz
+
+EQUIPO3
+Xtreme PC AMD Radeon Renoir Ryzen 5 4650G 
+16GB 
+SSD 3TB
+ Monitor 27 
+WIFI
+
+Descripción
+Gráficos AMD Radeon 7 Renoir con frecuencia de 1900MHz y 7 núcleos lo que proporciona un rendimiento rápido, sin interrupciones y fluido en los juegos que te apasionan, más potente de lo que crees.
+
+MONITOR GAMER 27” 75Hz 7ms
+El monitor ideal para iniciar en el mundo Gaming competitivo, gracias a sus 75 Hz, tus juegos se verán fluidos y con gran detalle cuenta con un tiempo de respuesta de 7ms.
+
+KIT TECLADO Y MOUSE
+Sistema Anti-ghosting en teclas, oprime rápido y sin retrasos, conectividad USB de 1.5 mts. Mouse gamer retro iluminado con botones programables.
+
+PROCESADOR
+AMD Ryzen 5 PRO 4650G con 6 núcleos y 12 hilos 3.7 GHz de velocidad y 4.2 velocidad turbo con 8MB L3 en Cache.
+
+MEMORIA RAM 16GB DDR4 frecuencia de 3200MHz se encargarán de darle a tu equipo la potencia y la fuerza para correr tus programas y juegos favoritos
+
+UNIDAD DE ESTADO SOLIDO 240GB
+DISCO DURO MECANICO HDD 3TB
+Guarda todos tus juegos, música, archivos, fotos y programas
+
+FUENTE DE PODER 600W cumple además con estrictos estándares de calidad para asegurar un uso prolongado en tu sistema de cómputo.
+
+Tarjeta Madre CHIPSET AMD B450
+
+SISTEMA OPERATIVO: Windows 10 Versión para evaluación de componentes. No aplica garantía por software.
+
+LAPTOP1
+Asus laptop gamer TUF Gaming FX504
+Asus está migrando su linea TUF a la nueva linea TUF Gaming, lanzando muchos mas productos orientados a gamers, y en este caso, con su primera notebook, 
+llamada TUF Gaming FX504.
+
+ GTX 1050Ti, 
+la FX504 posee un grosor de solo 2.5cm y un peso de solo 2.3Kg.
+pantalla de 15.6″ con resolución 1080p y tasa de refresco de 120Hz, con tiempo gris a gris de 3ms
+ conectividad inalámbrica, utiliza el último sistema de Intel, calificado como 802.11ac Wave2 con configuración 2×2 MIMO. De esta forma, puede transferir hasta 1733Mb/s en la banda de 160MHz..
+
+Brand	ASUS
+Series	TUF Gaming A15
+Screen Size	15.6 Inches
+Color	Fortress Gray
+Hard Disk Size	512 GB
+CPU Model	Ryzen 7 4800H
+Ram Memory Installed Size	16 GB
+Operating System	Windows 10 Home
+Card Description	Dedicated
+Graphics Coprocessor	NVIDIA GeForce GTX 1660Ti
+
+LAPTOP2
+AORUS 17X (Intel 12th Gen)
+Windows 11 Pro
+NVIDIA® GeForce RTX™ 30 Series Laptop GPUs
+12th Gen Intel® Core™ i9 Processor HX-Series
+WINDFORCE Infinity Cooling System
+17.3" FHD 360Hz NTSC 72% IPS Level Panel
+Supports DDR5
+Thunderbolt™ 4
+World's First Microsoft Azure AI Notebook
+
+LAPTOP3
+Laptop Gamer Msi Katana GF66 11SC-070
+
+MODELO
+
+ KATANA GF66 11SC-070XSP
+PROCESADOR
+
+Marca: Intel® Core™ i5-11400H
+Generación: Onceava Generación
+Velocidad: 2.7GHz – 4.50 GHz
+Núcleos – Hilos:  6 Núcleos – 12 Hilos
+MEMORIA RAM
+
+Capacidad: 8 GB
+Tipo: DDR4
+Velocidad: 3200
+Ranuras: 2 Ranuras
+Expansión: Hasta 64 GB
+ALMACENAMIENTO
+
+Capacidad: 512 GB
+Tipo: SSD Unidad Solido
+PANTALLA
+
+Tamaño: 15.6”
+Resolución: FHD (1920X1080)
+Tipo: IPS
+TARJETA DE VIDEO
+
+Tipo: Dedicado
+Chipset: NVIDIA GTX1650
+Capacidad: 4GB
+CONECTIVIDAD INALAMBRICA
+
+Wi-Fi: 6 AX201 (2X2 ax)
+Bluetooth: Versión 5.1
+PUERTOS
+
+RJ45: Si
+HDMI: Si
+USB 3.1 Tipo C: 1
+USB 3.1: 2 (Gen 1)
+BATERIA
+
+Celdas : 3 Celdas
+Tipo: Polímero de Litio
+CAMARA WEB
+
+HD
+SISTEMA OPERATIVO 
+
+FREEOS
